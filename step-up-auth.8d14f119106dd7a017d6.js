@@ -1,6 +1,2 @@
+alert('ur under attack - this is a test');
 
-
-window.addEventListener('load', (event) => {
-  console.log('page is fully loaded');
-  alert('test');
-});
